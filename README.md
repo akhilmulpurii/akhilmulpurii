@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://akhil.app/">
+  <a href="https://akhilmulpuri.netlify.app/">
   <img  src="https://raw.githubusercontent.com/akhilmulpurii/akhilmulpurii/3ad177de12966cc35cecf1cb450d6fcb0204197f/grid-snake.svg"
        alt="snake" /></a>
 </div>
