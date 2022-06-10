@@ -34,5 +34,6 @@
 ![Discord Bot](https://img.shields.io/badge/Discord-5566e3?style=flat-square&logo=discord&logoColor=white)
 
 ![VS Code](http://img.shields.io/badge/-VS%20Code-white?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
-![Xcode](https://img.shields.io/badge/Xcode-white?style=flat-square&logo=xcode&logoColor=blue)
-![Android Studio](https://img.shields.io/badge/Xcode-green?style=flat-square&logo=androidstudio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-green?style=flat-square&logo=androidstudio&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-blue?style=flat-square&logo=xcode&logoColor=white)
+
