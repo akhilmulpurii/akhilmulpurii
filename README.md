@@ -1,11 +1,11 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Akhil</h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/akhilmulpurii/akhilmulpurii/blob/main/waving.gif?raw=true">, I'm Akhil</h1>
 <h4 align="center">a freelance developer with 3 years of experience in creating Frontend applications using React, React Native, Flutter, Nextjs and backend applications using ExpressJs, HapiJs, MySQL also i am currently a graduate student at University of Central Oklahoma, US.</h4>
 </div>
 
 <div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+  <a href="https://akhil.app/">
+  <img  src="https://raw.githubusercontent.com/akhilmulpurii/akhilmulpurii/3ad177de12966cc35cecf1cb450d6fcb0204197f/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
@@ -15,7 +15,7 @@
 <br/>
 
 
-### 🛠 Tech Stack
+<h1 align="center">🛠 Tech Stack</h1>
 
 ![React.js](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat-square&logo=flutter&logoColor=white)
