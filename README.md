@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img width="35" src="https://github.com/akhilmulpurii/akhilmulpurii/blob/main/waving.gif?raw=true">, I'm Akhil</h1>
 <div align="center">
-<h4 align="left">a freelance developer with 3 years of experience in creating Frontend applications using React, React Native, Flutter, Nextjs and backend applications using ExpressJs, HapiJs, MySQL also i am currently a graduate student at University of Central Oklahoma, US.</h4>
+<h4 align="left">A developer with 3 years of experience in creating Frontend applications using React, React Native, Flutter, Nextjs and backend applications using ExpressJs, HapiJs, MySQL also i am currently a graduate student at University of Central Oklahoma, US.</h4>
 </div>
 
 <div align="center">
