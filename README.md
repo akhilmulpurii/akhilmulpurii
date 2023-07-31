@@ -25,6 +25,8 @@
 ![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
 ![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
 ![Shell](http://img.shields.io/badge/-Shell-c9c9c9?style=flat-square&logo=gnu-bash&logoColor=black)
+![Gatsby](https://img.shields.io/badge/Gatsby-20232A?style=flat-square&logo=gatsby&logoColor=8127F5)
+![Next.js](https://img.shields.io/badge/Next-20232A?style=flat-square&logo=next.js&logoColor=fff)
 ![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
 
 ![MacOS](https://img.shields.io/badge/macos-20232A?style=flat-square&logo=apple&logoColor=white)
