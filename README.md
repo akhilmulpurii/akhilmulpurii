@@ -4,15 +4,11 @@
 </div>
 
 <div align="center">
-  <a href="https://akhilmulpuri.netlify.app/">
+  <a href="[https://akhilmulpuri.netlify.app/](https://www.linkedin.com/in/samulpuri/)">
   <img  src="https://raw.githubusercontent.com/akhilmulpurii/akhilmulpurii/3ad177de12966cc35cecf1cb450d6fcb0204197f/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
-
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{akhilmulpurii}/count.svg" alt="akhilmulpurii :: Visitor's Count" /></p>
-<br/>
 
 
 <h1 align="left">🛠 Tech Stack</h1>
