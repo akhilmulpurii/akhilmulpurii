@@ -61,13 +61,29 @@ I'm a passionate developer who loves crafting seamless user experiences and robu
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-### Linux & Self-Hosting
+### Linux
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+### Self-Hosting & Home Server
+![Proxmox](https://img.shields.io/badge/Proxmox-VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
-![NAS](https://img.shields.io/badge/NAS-0066CC?style=for-the-badge&logo=synology&logoColor=white)
+![Navidrome](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=navidrome&logoColor=white)
+
+
+![Pi-hole](https://img.shields.io/badge/Pi--hole-DNS_Blocking-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-DDNS-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![WireGuard](https://img.shields.io/badge/WireGuard-VPN-88171A?style=for-the-badge&logo=wireguard&logoColor=white)
+![Twingate](https://img.shields.io/badge/Twingate-Zero_Trust-5B5FFF?style=for-the-badge)
+
+![Glance](https://img.shields.io/badge/Glance-Dashboard-000000?style=for-the-badge)
+![NAS](https://img.shields.io/badge/NAS-Storage-0066CC?style=for-the-badge)
 
 ### Development Environment
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
