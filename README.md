@@ -74,7 +74,7 @@ I'm a passionate developer who loves crafting seamless user experiences and robu
 ![Nginx](https://img.shields.io/badge/Nginx-Reverse_Proxy-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ![Jellyfin](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=jellyfin&logoColor=white)
-![Navidrome](https://img.shields.io/badge/Jellyfin-00A4DC?style=for-the-badge&logo=navidrome&logoColor=white)
+![Navidrome](https://img.shields.io/badge/Navidrome-2969ff?style=for-the-badge&logo=musicbrainz&logoColor=white)
 
 
 ![Pi-hole](https://img.shields.io/badge/Pi--hole-DNS_Blocking-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
