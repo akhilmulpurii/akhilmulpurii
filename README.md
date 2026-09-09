@@ -8,6 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil7mulpuri/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://akhilmulpuri.com/)
+[![Email](https://img.shields.io/badge/Email-Drop_a_message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mulpuriakhil@icloud.com)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FartVader02)
 
 <img src="https://raw.githubusercontent.com/akhilmulpurii/akhilmulpurii/3ad177de12966cc35cecf1cb450d6fcb0204197f/grid-snake.svg" alt="snake" />
 
@@ -120,20 +122,6 @@ const akhil = {
 };
 ```
 
----
-
-## 🤝 Let's Connect
-
-I'm always interested in collaborating on exciting projects or discussing new technologies. Feel free to reach out!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-Drop_a_message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mulpuriakhil@icloud.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FartVader02)
-
-</div>
-
----
 
 <div align="center">
   
