@@ -6,8 +6,8 @@
 
 *Building elegant solutions across the entire stack*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samulpuri/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://akhilmulpurii.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akhil7mulpuri/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://akhilmulpuri.com/)
 
 <img src="https://raw.githubusercontent.com/akhilmulpurii/akhilmulpurii/3ad177de12966cc35cecf1cb450d6fcb0204197f/grid-snake.svg" alt="snake" />
 
