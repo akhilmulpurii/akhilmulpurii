@@ -30,6 +30,16 @@ I'm a passionate developer who loves crafting seamless user experiences and robu
 
 ---
 
+<div align="center">
+  
+  ### 💭 Random Dev Quote
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+  
+
+</div>
+
+
 ## 💻 Tech Stack
 
 ### Frontend & Mobile
@@ -121,14 +131,3 @@ const akhil = {
     funFact: "I debug with console.log() and I'm not ashamed 😄"
 };
 ```
-
-
-<div align="center">
-  
-  ### 💭 Random Dev Quote
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=akhilmulpurii&color=F85D7F&style=for-the-badge)
-
-</div>
