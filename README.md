@@ -129,7 +129,6 @@ I'm always interested in collaborating on exciting projects or discussing new te
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-Drop_a_message-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mulpuriakhil@icloud.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samulpuri/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow_me-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/FartVader02)
 
 </div>
